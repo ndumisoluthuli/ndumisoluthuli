@@ -25,9 +25,10 @@ def add_numbers(a, b):
 # Call the function
 result = add_numbers(5, 3)
 print("Sum:", result)  # Output: Sum: 8
+```
+
 Exercise 1: Square of a Number
 Write a function that takes a number as input and returns its square.
-```
 
 ```python
 def square(num):
